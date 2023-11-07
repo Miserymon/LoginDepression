@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018439422258",
+    "project_id": "logindepression",
+    "storage_bucket": "logindepression.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018439422258:android:0701a925b9786ecb83872b",
+        "android_client_info": {
+          "package_name": "com.example.logindepression"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBW_vJ9NEbBDyYhr-trjm72W6V6gCifhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
